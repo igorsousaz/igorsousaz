@@ -1,5 +1,7 @@
 ## Oii, eu sou o igor!👋
 
+Sou um estudante de desenvolvimento android nativo, estou focado em me tornar um desenvolvedor android, com muito interesse e dedicação pela programação.
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-android" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" >
   <img align="center" alt="Igor-kotlin" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" >
